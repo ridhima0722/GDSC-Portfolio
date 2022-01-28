@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    background-color: bisque;
+    padding: 20px;
+    margin: 40px;
+    color: red;
+}
+body{
+    background-color: burlywood;
+}
+.ph{
+   font-weight: bold;
+   font-size: larger;
+   color: royalblue;
+   font-style: oblique;
+  
+}
